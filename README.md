@@ -3,7 +3,7 @@
 
 I'm a Honors Neuroscience and Comp Sci Student at [McGill University](https://www.mcgill.ca/)
 
-You can learn more about me at my personal website, [markdaniel.com](#)
+You can learn more about me at my personal website, [markhdaniel.com](https://markhdaniel.com)
 <!--
 **Mark-777-0/Mark-777-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
