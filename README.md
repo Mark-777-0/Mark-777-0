@@ -1,20 +1,61 @@
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi! I'm Mark!</h1>
 
- ### About Me
 
-I'm a Honors Neuroscience and Comp Sci Student at [McGill University](https://www.mcgill.ca/)
 
-You can learn more about me at my personal website, [markhdaniel.com](https://markhdaniel.com)
-<!--
-**Mark-777-0/Mark-777-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+ 
+<img  height='400px' src='MarkDaniel-min.gif'/> 
+<br>
+ <br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm a <strong>Software Engineer</strong>  that specializes in <i>front end</i> development.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
+### My Tools
+<p> 
+  
+  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="typescript.png" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="35px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="35px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">
+  
+</p>
+
+
+</div>
+
+<tr>
+
+
+
+<div align="center">
+ 
+ <br/>
+ 
+
+| <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-777-0&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Mark-777-0's github stats" /></a> | <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-777-0&layout=compact&theme=algolia&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+  
+📫 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-MarkDaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-daniel)](www.linkedin.com/in/mark-k-daniel)
+ 
+
+
+</div>
+ 
+ <h1 align='center' > My Portfolio Website </h1>
+ 
+<div align='center'>
+ 
+ <a href='https://mark-h-daniel.com' > <img height='150' src='logoBright.png'/> </a>
+ 
+
+</div>
