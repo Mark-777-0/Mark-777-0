@@ -45,7 +45,7 @@
 
 <br />
   
-📫 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-MarkDaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-daniel)](www.linkedin.com/in/mark-k-daniel)
+📫 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-MarkDaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mark-daniel-5275441b6)](www.linkedin.com/mark-daniel-5275441b6)
  
 
 
