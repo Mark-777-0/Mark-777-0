@@ -4,7 +4,7 @@
 
 <div align='center'>
  
-<img  height='400px' src='MarkDaniel-min.gif'/> 
+<img  height='300px' src='MarkDaniel-min.gif'/> 
 <br>
  <br/>
 
