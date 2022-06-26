@@ -4,12 +4,12 @@
 
 <div align='center'>
  
-<img  height='300px' src='MarkDaniel-min.gif'/> 
+<img  height='250px' src='MarkDaniel-min.gif'/> 
 <br>
  <br/>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong>  that specializes in <i>front end</i> development.
+  I'm a <strong>Software Engineer</strong>  that specializes in <i> front end</i> development.
 <br>
 
 
