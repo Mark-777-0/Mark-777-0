@@ -72,7 +72,7 @@
   
 📫 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-MarkDaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mark-daniel-5275441b6)](https://linkedin.com/in/mark-daniel-5275441b6)
  
-<!-- 
+
 
 </div>
  
@@ -80,7 +80,7 @@
  
 <div align='center'>
  
- <a href='https://mark-h-daniel.com' > <img height='150' src='logoBright.png'/> </a>
+ <a href='https://mark-h-daniel.com' > <img height='50' src='logoBright.png'/> </a>
  
 
-</div> -->
+</div>
