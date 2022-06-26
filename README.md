@@ -4,18 +4,16 @@
 
 <div align='center'>
  
-<img  height='250px' src='MarkDaniel-min.gif'/> 
+<!-- <img  height='150px' src='MarkDaniel-min.gif'/> 
 <br>
- <br/>
+ <br/> -->
 
-<p align="center">
-  I'm a <strong>Software Engineer</strong>  that specializes in <i> front end</i> development.
-<br>
+
 
 
 
  
-### My Tools
+### My Tech Stack
 <p> 
   
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="javascript.png" /></a>
@@ -47,7 +45,7 @@
   
 📫 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-MarkDaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mark-daniel-5275441b6)](https://linkedin.com/in/mark-daniel-5275441b6)
  
-
+<!-- 
 
 </div>
  
@@ -58,4 +56,4 @@
  <a href='https://mark-h-daniel.com' > <img height='150' src='logoBright.png'/> </a>
  
 
-</div>
+</div> -->
