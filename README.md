@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi! I'm Mark!</h1>
 
-
+![MarkDaniel](https://github.com/Mark-777-0/Mark-777-0/blob/main/MarkDaniel.png)
 
 <div align='center'>
  
@@ -65,7 +65,7 @@
  <br/>
  
 
-| <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-777-0&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Mark-777-0's github stats" /></a> | <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-777-0&layout=compact&theme=algolia&hide_border=true" /></a> |
+| <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-777-0&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Mark-777-0's github stats" /></a> | <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-777-0&layout=compact&theme=prussian&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
