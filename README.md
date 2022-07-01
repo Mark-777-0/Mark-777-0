@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi! I'm Mark!</h1>
+<h1 align="center"> 👋 Hi! I'm Mark!</h1>
 
 ![MarkDaniel](https://github.com/Mark-777-0/Mark-777-0/blob/main/MarkDaniel.png)
 
