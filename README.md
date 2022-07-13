@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi! I'm Mark!</h1>
 
-![MarkDaniel](https://github.com/Mark-777-0/Mark-777-0/blob/main/MarkDaniel.png)
+![MarkDaniel](https://github.com/Mark-777-0/Mark-777-0/blob/main/assets/MarkDaniel.png)
 
 <div align='center'>
  
