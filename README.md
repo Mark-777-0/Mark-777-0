@@ -70,4 +70,4 @@
 
 <br />
   
- Contact Me on My Website! <a href='https://mark-h-daniel.com' target='_blank' > <img height='30' src='logoBright.svg'/> </a> | <a href='https://www.parloursmusic.com/' target='_blank' > <img height='30' src='logoBright.svg'/> </a> 
+ Contact Me on My Website! <a href='https://mark-h-daniel.com' target='_blank' > <img height='30' src='assets/logoBright.svg'/> </a> | <a href='https://www.parloursmusic.com/' target='_blank' > <img height='30' src='assets/parlours.svg'/> </a> 
