@@ -44,6 +44,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFB?style=flat-square&logo=vercel&logoColor=000000)
 
 <!--  ### Extra
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
  ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=fff)
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=fff)
  ![Java](https://img.shields.io/badge/-python-43B02A?style=flat-square&logo=python&logoColor=fff)
