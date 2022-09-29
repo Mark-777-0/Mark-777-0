@@ -66,7 +66,7 @@
  <br/>
  
 
-| <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-777-0&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="Mark-777-0's github stats" /></a> | <a href="https://github.com/Mark-777-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-777-0&layout=compact&theme=prussian&hide_border=true" /></a> | 
+| <a href="https://github.com/Mark-777-0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-777-0&show_icons=true&theme=prussian&hide_border=true" alt="Mark-777-0's github stats" /></a> | <a href="https://github.com/Mark-777-0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-777-0&layout=compact&theme=prussian&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
 <br />
