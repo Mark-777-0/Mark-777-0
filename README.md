@@ -31,6 +31,8 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
+![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=R&logoColor=fff)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![MUI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat-square&logo=mui&logoColor=fff)
@@ -42,6 +44,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFB?style=flat-square&logo=vercel&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 <!--  ### Extra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -71,4 +74,4 @@
 
 <br />
   
- Contact Me on My Websites! <a href='https://mark-h-daniel.com' target='_blank' > <img height='30' src='assets/logoBright.svg'/> </a> 
+ Contact Me on My Website! <a href='https://mark-h-daniel.com' target='_blank' > <img height='30' src='assets/logoBright.svg'/> </a> 
